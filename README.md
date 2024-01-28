@@ -12,7 +12,7 @@ offering reusable, generic implementations for frequently needed operations.
 To use `dry` in your Go project, install it using `go get`:
 
 ```bash
-go get github.com/yourusername/dry
+go get github.com/jon-ski/dry
 ```
 
 ## Usage
