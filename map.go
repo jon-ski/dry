@@ -126,4 +126,3 @@ func MapKeyFunc[K comparable, V any](m map[K]V, k K, f func(V) V) map[K]V {
 	}
 	return m
 }
-
